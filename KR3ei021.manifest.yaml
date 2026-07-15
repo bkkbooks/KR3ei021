@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ei021/v1
 canonical_location: https://kanripo.org/bkk/KR3ei021/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 傅青主女科歌括
   identifiers:
@@ -17,16 +17,16 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ei021_000.yaml, hash: 'sha256:73a4ac229cafabe5e1ac99e18223bc3a8b1ab3ac63bfd1252a583b7a644f589c'}
-  - {seq: 1, filename: KR3ei021_001.yaml, hash: 'sha256:ac42a6c1c42e2d8351f75db75289fe37804241b5b3d8a13ab15bf527f4e7bfc6'}
-  - {seq: 3, filename: KR3ei021_003.yaml, hash: 'sha256:63db463738f1e434e6dc8a5857d25b912f8cb05978f53d5462d7c3631699a811'}
-  - {seq: 1, filename: KR3ei021_001.yaml, hash: 'sha256:ac42a6c1c42e2d8351f75db75289fe37804241b5b3d8a13ab15bf527f4e7bfc6'}
-  - {seq: 3, filename: KR3ei021_003.yaml, hash: 'sha256:63db463738f1e434e6dc8a5857d25b912f8cb05978f53d5462d7c3631699a811'}
-  - {seq: 0, filename: KR3ei021_000.yaml, hash: 'sha256:73a4ac229cafabe5e1ac99e18223bc3a8b1ab3ac63bfd1252a583b7a644f589c'}
+  - {seq: 0, filename: KR3ei021_000.yaml, hash: 'sha256:0568527526824d677e34fb730b854d607f1255b4f166c161d90d1ad67db51b06'}
+  - {seq: 1, filename: KR3ei021_001.yaml, hash: 'sha256:83d0bd9917e4b04c226e70ea52aed47cef2878893c141932e3a61f4cd4192cc9'}
+  - {seq: 3, filename: KR3ei021_003.yaml, hash: 'sha256:5022a051114b2282f9ef6f45cf4955cfc0535f118d4abee175456d67323a2570'}
+  - {seq: 1, filename: KR3ei021_001.yaml, hash: 'sha256:83d0bd9917e4b04c226e70ea52aed47cef2878893c141932e3a61f4cd4192cc9'}
+  - {seq: 3, filename: KR3ei021_003.yaml, hash: 'sha256:5022a051114b2282f9ef6f45cf4955cfc0535f118d4abee175456d67323a2570'}
+  - {seq: 0, filename: KR3ei021_000.yaml, hash: 'sha256:0568527526824d677e34fb730b854d607f1255b4f166c161d90d1ad67db51b06'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei021_000.markers.yaml, hash: 'sha256:fb628bbb5bc77a7ca5d9d8b881b22eac3b2b960c33df07982e3bfe1c529de5b8'}
-  - {seq: 1, role: markers, filename: assets/KR3ei021_001.markers.yaml, hash: 'sha256:3f322a287e01164b9b59b89b03e0fc9ed7364ac88138f2ea817445cd56fdb3ae'}
-  - {seq: 3, role: markers, filename: assets/KR3ei021_003.markers.yaml, hash: 'sha256:e2ce05f15e5263b56fd74f8d7548e9df06d25098c617c9a28f070179c4cdf10f'}
+  - {seq: 0, role: markers, filename: assets/KR3ei021_000.markers.yaml, hash: 'sha256:d373f4d5a05d27327c5e9054774fd62f9649a1498bb38e051af9c3480889dca8'}
+  - {seq: 1, role: markers, filename: assets/KR3ei021_001.markers.yaml, hash: 'sha256:e5c242bd39460890510e1ef132e080aaeceaa6aab820678bbbef28aa9ae413e2'}
+  - {seq: 3, role: markers, filename: assets/KR3ei021_003.markers.yaml, hash: 'sha256:5136b827e9577a4426e7566338837c79e94154df29b49488c1db16f0a2d7baa5'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1558,4 +1558,7 @@ table_of_contents:
   label: 傅青主徵君女科書後
   type: section
   level: 1
-hash: sha256:758687fccf76a61bc3f3371fb281c274b6809cdd5b8c04b786c7926b6eb30759
+hash: sha256:0ada7a1a41ae29636f45b50908d75855c43c22b844d0d32ee7aff35ca0796e33
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
