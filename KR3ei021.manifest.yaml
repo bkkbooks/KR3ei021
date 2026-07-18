@@ -25,8 +25,8 @@ assets:
   - {seq: 0, filename: KR3ei021_000.yaml, hash: 'sha256:0568527526824d677e34fb730b854d607f1255b4f166c161d90d1ad67db51b06'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ei021_000.markers.yaml, hash: 'sha256:d373f4d5a05d27327c5e9054774fd62f9649a1498bb38e051af9c3480889dca8'}
-  - {seq: 1, role: markers, filename: assets/KR3ei021_001.markers.yaml, hash: 'sha256:e5c242bd39460890510e1ef132e080aaeceaa6aab820678bbbef28aa9ae413e2'}
-  - {seq: 3, role: markers, filename: assets/KR3ei021_003.markers.yaml, hash: 'sha256:5136b827e9577a4426e7566338837c79e94154df29b49488c1db16f0a2d7baa5'}
+  - {seq: 1, role: markers, filename: assets/KR3ei021_001.markers.yaml, hash: 'sha256:a46f815a36bca47f18e61cc306d319604f960173c51a8075e4033aaa8599b382'}
+  - {seq: 3, role: markers, filename: assets/KR3ei021_003.markers.yaml, hash: 'sha256:bf6cb50ead701f0ab0856cb63ddf1a9e4bf13148cb883d8e8bc1acf49a4eea5e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1558,7 +1558,7 @@ table_of_contents:
   label: 傅青主徵君女科書後
   type: section
   level: 1
-hash: sha256:0ada7a1a41ae29636f45b50908d75855c43c22b844d0d32ee7aff35ca0796e33
+hash: sha256:ada6ef4f11e848c8ed5c4f24a2691541c84345c5436c52cd2a8e60c3e92b1fb8
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

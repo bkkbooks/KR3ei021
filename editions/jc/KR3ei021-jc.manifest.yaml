@@ -25,11 +25,8 @@ assets:
   - {seq: 0, filename: KR3ei021_000-jc.yaml, hash: 'sha256:73a4ac229cafabe5e1ac99e18223bc3a8b1ab3ac63bfd1252a583b7a644f589c'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ei021_000-jc.markers.yaml, hash: 'sha256:a6853e7bd4bca739ddb33c03c89158fcd819cfebd1958d7e13441bedaacc889a'}
-  - {seq: 1, role: markers, filename: assets/KR3ei021_001-jc.markers.yaml, hash: 'sha256:ea2ff4c5002f3e4fcbc18d426da4c779a264af0d037be719349e058c7def5ce8'}
-  - {seq: 3, role: markers, filename: assets/KR3ei021_003-jc.markers.yaml, hash: 'sha256:a967e1509c4eff02749147bb39cd6afc04039945a35b504c4bb664080533ef72'}
-  - {seq: 1, role: markers, filename: assets/KR3ei021_001-jc.markers.yaml, hash: 'sha256:ea2ff4c5002f3e4fcbc18d426da4c779a264af0d037be719349e058c7def5ce8'}
-  - {seq: 3, role: markers, filename: assets/KR3ei021_003-jc.markers.yaml, hash: 'sha256:a967e1509c4eff02749147bb39cd6afc04039945a35b504c4bb664080533ef72'}
-  - {seq: 0, role: markers, filename: assets/KR3ei021_000-jc.markers.yaml, hash: 'sha256:a6853e7bd4bca739ddb33c03c89158fcd819cfebd1958d7e13441bedaacc889a'}
+  - {seq: 1, role: markers, filename: assets/KR3ei021_001-jc.markers.yaml, hash: 'sha256:be4b719bdf4e36abcc2b0112a63d44b1a8a864250058aa9c44ffaf96d6c642d0'}
+  - {seq: 3, role: markers, filename: assets/KR3ei021_003-jc.markers.yaml, hash: 'sha256:8a7fe78aad460beb2d7d9ddca173458feed0ae2cf178fff1fe114afe3521aba4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1561,4 +1558,4 @@ table_of_contents:
   label: 傅青主徵君女科書後
   type: section
   level: 1
-hash: sha256:b3b23378c7ed835f0c041e7671cf04d971276676e0fd739123308c098b0153a2
+hash: sha256:cb63df9eab732658aded4d7cccb9f02c6d91d8bec84b9399bbfcb23bbf08fa6f
